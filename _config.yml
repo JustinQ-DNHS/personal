@@ -3,7 +3,7 @@ description: "Place where I test stuff and also plan to blog tri 3 at"
 owner_name: Justin Quach
 github_username: JustinQ-DNHS
 github_repo: "personal"
-baseurl: "/personals"
+baseurl: "/personal"
 remote_theme: jekyll/minima
 minima:
   social_links:
