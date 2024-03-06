@@ -33,7 +33,7 @@ The main lesson of the day was understanding housing vocabulary, the main ones t
     <tr>
         <td>厕所</td>
         <td>CeSuo</td>
-        <td>Bathroom</td>
+        <td>Bathroom (Toilet)</td>
     </tr>
     <tr>
         <td>阳台</td>
@@ -45,3 +45,34 @@ The main lesson of the day was understanding housing vocabulary, the main ones t
         <td>KeTing</td>
         <td>Living Room</td>
     </tr>
+    <tr>
+        <td>餐厅</td>
+        <td>CanTing</td>
+        <td>Dining Room</td>
+    </tr>
+    <tr>
+        <td>厨房</td>
+        <td>ChuFang</td>
+        <td>Kitchen</td>
+    </tr>
+    <tr>
+        <td>卫生间</td>
+        <td>WeiShengJian</td>
+        <td>Bathroom (Toilet+Shower)</td>
+    </tr>
+    <tr>
+        <td>浴室</td>
+        <td>YuShi</td>
+        <td>Bathroom (Bathtub/Shower)</td>
+    </tr>
+    <tr>
+        <td>平方英尺</td>
+        <td>PingFangYingChi</td>
+        <td>Square Feet</td>
+    </tr>
+    <tr>
+        <td>一套/间</td>
+        <td>YiTao/Jian</td>
+        <td>(Measure word for rooms)</td>
+    </tr>
+</table>
