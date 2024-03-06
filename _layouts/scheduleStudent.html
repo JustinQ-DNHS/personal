@@ -43,8 +43,8 @@ Load all posts with site
   <tr>
     <th>Week</th>
     <th>Plans</th>
-    <th>Hacks(Todo)</th>
-    <th>Tangibles</th>
+    <th>To-do</th>
+    <th>Finished</th>
   </tr>
 
   {%comment%} 
@@ -113,8 +113,8 @@ Load all posts with site
   <!-- This Loop is maximum iterationss, since elements are pairs it will decrement a extra times at the end -->
   {%endcomment%}
   <tr>
-  <td> {{ index }} </td> 
-  <td>
+  <td style="text-align:center; width:8%"> {{ index }} </td> 
+  <td style="width:30%">
   {% for i in (0..units.size) -%} 
     {% if units.size == 0 %}
       {% break %}
