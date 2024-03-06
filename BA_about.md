@@ -4,6 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-A Fastpages clone, for CSA - Tirth Thakkar & Haseeb Beg
-
-
+I'm not a real person, don't believe the government and their lies! I've never existed!

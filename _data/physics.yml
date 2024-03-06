@@ -1,0 +1,11 @@
+# Physics course meta data
+Unit1:
+  title: Energy conversion
+  description: An overview of lots of work
+  start: 1
+  end: 6
+Unit2:
+  title: Placeholder
+  description: placeholder
+  start: 7
+  end: 12
