@@ -1,6 +1,15 @@
-#History course meta data
+# History course meta data
 Unit1:
   title: The Great Depression
-  description: Placeholder
-  start: 0
+  description: |
+    Overview: In this Module students will be introduced to the Great Depression. <br>
+    Essential Questions: <br>
+     - What were the principle causes, both at home and abroad, that put the US economy at risk? <br>
+     - How did the United States react to the end of the prosperous 1920s and deal with the severe economic problems that gripped the nation?
+  start: 1
   end: 4
+Unit2:
+  title: Placeholder
+  description: placeholder
+  start: 5
+  end: 8

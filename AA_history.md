@@ -1,6 +1,6 @@
 ---
-layout: schedule
+layout: scheduleStudent
 title: History
-units: "1"
+units: "1,2"
 course: history
 ---
