@@ -235,7 +235,27 @@ The final thing to do was to watch a video on Lesson 7 Dialogue 1 and do a text 
 <iframe width="785" height="589" src="https://www.youtube.com/embed/JTVSlnvPmTI" title="Integrated Chinese Lesson 17 Dialogue 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>
 
-We had fun.
+Text Analysis:  
+- 王朋在学校的宿舍住了多长时间了？
+    - 王朋住在学校的宿舍两个学期了。
+- 他觉得宿舍怎么样？
+    - 他觉得宿舍太吵，睡不好就，房间太小，连电脑都放不下。没有地方可以做饭。
+- 下个学期他准备做什么？
+    - 下个学期他准备搬出去住。
+- 他找房子找了多长时间了？
+    - 一个多月了。
+- 他找到合适的房子了吗？
+    - 他找到合适的房子，离学校很近。
+- 他在哪儿看到了一个广告？是什么广告？
+    - 他在报纸看到了一个广告，说学校附近有一套公寓出租。
+- 这个公寓远吗？
+    - 这个公寓不远，实际上是附近。
+- 公寓里有什么房间？
+    - 公寓有一个卧室，一个厨房，一个卫生间，和一个客厅。
+- 带家具吗？
+    - 有家具。
+- 王朋觉得这套公寓对他合适吗？
+    - 王鹏觉得这套公寓对他很合适。
 
 ## Thursday
 ### 这是什么意思？
