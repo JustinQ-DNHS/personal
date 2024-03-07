@@ -223,7 +223,7 @@ Very simple, identify two new words in the following image:
 </details>
 
 #### Textbook Work
-The final thing to do was to watch a video on Lesson 7 Dialogue 1 and do a text analysis of Lesson 7 Dialogue 2. A video was referenced to watch <a href="https://youtu.be/gD-JmZGhsW0?si=NNZ2tMk8OL5FrFvJ">here</a>. Then we have to watch another video of a bunch of College students re-enacting the book. Which is always fun.
+The final thing to do was to watch a video on Lesson 7 Dialogue 1 and do a text analysis of Lesson 7 Dialogue 2. A video was referenced to watch <a href="https://youtu.be/gD-JmZGhsW0?si=NNZ2tMk8OL5FrFvJ">here</a> and <a href="https://youtu.be/JTVSlnvPmTI">here</a>. Then we have to watch another video of a bunch of College students re-enacting the book. Which is always fun.
 <!-- Video pop-ups/dropdowns -->
 <details>
 <summary><text style="font-size:20px">Video1</text></summary>
@@ -233,5 +233,121 @@ The final thing to do was to watch a video on Lesson 7 Dialogue 1 and do a text 
 <details style="padding-top:20px">
 <summary><text style="font-size:20px">Video2</text></summary>
 <iframe width="785" height="589" src="https://www.youtube.com/embed/JTVSlnvPmTI" title="Integrated Chinese Lesson 17 Dialogue 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</details>
+
+We had fun.
+
+## Thursday
+### 这是什么意思？
+For our journal we had to check the PinYin and meaning of 这是什么意思？(ZheShiShenMeYiSi?) which means "What does this mean?" Each word individually is 这 (Zhe) "This", 是 (Shi) "is", 什么 (ShenMe) "what", 意思 (YiSi) "mean; meaning".  
+You can also use 意思 (YiSi) to express interest in something, such as 这个游戏没有意思。 (ZheGeYouXiMeiYouYiSi) Which means "This game is not interesting."
+
+### WOD Vocab
+Just some vocabulary for the WOD Quiz
+
+<details open>
+<summary><text style="font-size:30px">Vocabulary</text></summary>
+<table class="c3Table">
+    <tr>
+        <td>沙发</td>
+        <td>ShaFa</td>
+        <td>Sofa</td>
+    </tr>
+    <tr>
+        <td>单人沙发</td>
+        <td>DanRenShaFa</td>
+        <td>Single Sofa</td>
+    </tr>
+    <tr>
+        <td>沙发床</td>
+        <td>ShaFaChuang</td>
+        <td>Sofa bed (Pullout Couch)</td>
+    </tr>
+    <tr>
+        <td>桌</td>
+        <td>Zhuo</td>
+        <td>Table</td>
+    </tr>
+    <tr>
+        <td>课桌</td>
+        <td>KeZhuo</td>
+        <td>Desk (Literally: Work table)</td>
+    </tr>
+    <tr>
+        <td>咖啡桌</td>
+        <td>KaFeiZhuo</td>
+        <td>Coffee Table</td>
+    </tr>
+    <tr>
+        <td>桌子</td>
+        <td>ZhuoZi</td>
+        <td>Table; Desk (General term for tables)</td>
+    </tr>
+    <tr>
+        <td>架</td>
+        <td>Jia</td>
+        <td>Shelf</td>
+    </tr>
+    <tr>
+        <td>书架</td>
+        <td>ShuJia</td>
+        <td>Bookshelf</td>
+    </tr>
+    <tr>
+        <td>鞋架</td>
+        <td>XieJia</td>
+        <td>Shoe Rack</td>
+    </tr>
+    <tr>
+        <td>衣架</td>
+        <td>YiJia</td>
+        <td>Coat Hanger</td>
+    </tr>
+    <tr>
+        <td>货架</td>
+        <td>HuoJia</td>
+        <td>Shelves</td>
+    </tr>
+    <tr>
+        <td>具</td>
+        <td>Ju</td>
+        <td>Tool</td>
+    </tr>
+    <tr>
+        <td>家具</td>
+        <td>JiaJu</td>
+        <td>Furniture</td>
+    </tr>
+    <tr>
+        <td>文具</td>
+        <td>WenJu</td>
+        <td>Stationary</td>
+    </tr>
+    <tr>
+        <td>茶具</td>
+        <td>ChaJu</td>
+        <td>Tea Set</td>
+    </tr>
+    <tr>
+        <td>工具</td>
+        <td>GongJu</td>
+        <td>Tool</td>
+    </tr>
+    <tr>
+        <td>玩具</td>
+        <td>WanJu</td>
+        <td>Toy</td>
+    </tr>
+    <tr>
+        <td>餐具</td>
+        <td>CanJu</td>
+        <td>Silverware</td>
+    </tr>
+    <tr>
+        <td>用具</td>
+        <td>YongJu</td>
+        <td>Utensil</td>
+    </tr>
+</table>
 </details>
 
