@@ -13,7 +13,10 @@ Did the Frog Popper activity and filled out a work worksheet
 
 <details>
 <summary><text style="font-size:30px">Worksheet</text></summary>
-<img src="{{site.baseurl}}/images/AA_physics/20240306_workPg1.png" >
+<div style="text-align:center">
+    <img src="{{site.baseurl}}/images/AA_physics/20240306_workPg1.png" width="40%" style="display:inline">
+    <img src="{{site.baseurl}}/images/AA_physics/20240306_workPg2.png" width="40%" style="display:inline">
+</div>
 </details>
 
 ## Wedenesday
@@ -29,6 +32,10 @@ We also worked on a worksheet which covered calculating work on an object.
 
 <details>
 <summary><text style="font-size:30px">Worksheet</text></summary>
+<div style="text-align:center">
+    <img src="{{site.baseurl}}/images/AA_physics/20240306_workPg1.png" width="40%" style="display:inline">
+    <img src="{{site.baseurl}}/images/AA_physics/20240306_workPg2.png" width="40%" style="display:inline">
+</div>
 </details>
 
 Discussed how to calculate work, which is:  
