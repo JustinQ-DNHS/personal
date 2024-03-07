@@ -115,7 +115,7 @@ Some examples on how to use these sentence patterns:
 
 #### Read Two Ads, Identify New Words
 Very simple, identify two new words in the following image:
-<img src="{{site.baseurl}}/images/chinese/20240306_adImage.png" alt="Image of the ads and text below we are meant to analyze" width="70%" style="padding-top:20px">
+<img src="{{site.baseurl}}/images/AA_chinese/20240306_adImage.png" alt="Image of the ads and text below we are meant to analyze" width="70%" style="padding-top:20px">
 <details open>
 <summary><text style="font-size:30px">Vocabulary</text></summary>
 <table class="c3Table">

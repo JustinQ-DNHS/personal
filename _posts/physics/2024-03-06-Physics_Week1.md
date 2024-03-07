@@ -13,6 +13,7 @@ Did the Frog Popper activity and filled out a work worksheet
 
 <details>
 <summary><text style="font-size:30px">Worksheet</text></summary>
+<img src="{{site.baseurl}}/images/AA_physics/20240306_workPg1.png" >
 </details>
 
 ## Wedenesday
