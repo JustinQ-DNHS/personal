@@ -24,6 +24,7 @@ categories: [Physics, Formulas]
 - PE = *mgh*
 - W<sub>NET</sub> = ΔKE 
 - W = *Fd*
+- v<sub>f</sub><sup>2</sup> = 2*gh* (Respect to KE = PE)
 
 ## Kinematic Equations
 - v<sub>f</sub> = v<sub>i</sub> + *at*
