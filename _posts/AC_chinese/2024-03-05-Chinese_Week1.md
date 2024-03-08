@@ -87,9 +87,9 @@ We also learned how to say numbers larger than 999, that is 千 (Qian), if you w
 林老师 was out so we had to learn on our own. We had to go through three tasks for credit. We had to listen to the Lesson 7, Dialogue 1 video and complete the L7 D2 text analysis, and then submit the written answers and a video to canvas. Then we had to complete a Padlet and write in our journal new words in an ad page for housing.
 
 #### Padlet
-I decided to work on the Padlet first since I don't have a textbook for the class, the first question wanted you to make a sentence with the pattern 只要。。。就 (ZhiYao...Jiu) which funamentally means, as long as they have <text>______</text> they are <text>______</text>.  
-The next question was to make a sentence using the sentence pattern 只有。。。才 (ZhiYou...Cai). This basically means If it is <text>______</text> they will <text>______</text>.  
-Finally we had the final question which was to make a sentence using the sentence pattern 凡事。。。都 (FanShi...Dou) which basically means As long as <text>______</text> is true, I will think <text>______</text>.  
+I decided to work on the Padlet first since I don't have a textbook for the class, the first question wanted you to make a sentence with the pattern 只要。。。就 (ZhiYao...Jiu) which funamentally means, "As long as they have <text>______</text>, they are <text>______</text>."  
+The next question was to make a sentence using the sentence pattern 只有。。。才 (ZhiYou...Cai). This basically means "If <text>______</text>, they will be <text>______</text>."  
+Finally we had the final question which was to make a sentence using the sentence pattern 凡事。。。都 (FanShi...Dou) which basically means "If they have any/all <text>______</text>, they will be <text>______</text>."  
 Some examples on how to use these sentence patterns:  
 
 <details open>
@@ -106,7 +106,7 @@ Some examples on how to use these sentence patterns:
         <td>As long as I have inspiration I can do my homework.</td>
     </tr>
     <tr>
-        <td>我凡事同学不听话，我都不高兴。</td>
+        <td>我凡是同学不听话，我都不高兴。</td>
         <td>WoFanShiTongXueBuTingHua,WoDouBuGaoXing</td>
         <td>Whenever my classmates are misbehaving, I am unhappy.</td>
     </tr>
@@ -371,3 +371,6 @@ Just some vocabulary for the WOD Quiz
 </table>
 </details>
 
+## Friday
+### Went over Padlets
+We went over Padlets and judged people, I got points.

@@ -11,4 +11,4 @@ comments: false
 
 ## Frog Popper Activity
 Variables
-- 
+- m = 0.0139kg &asymp;
