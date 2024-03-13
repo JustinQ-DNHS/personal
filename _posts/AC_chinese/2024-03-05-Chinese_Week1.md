@@ -126,7 +126,7 @@ Very simple, identify two new words in the following image:
     </tr>
     <tr>
         <td>公寓</td>
-        <td>GongYy</td>
+        <td>GongYu</td>
         <td>Apartment</td>
     </tr>
     <tr>
