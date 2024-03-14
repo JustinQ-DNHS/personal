@@ -19,10 +19,10 @@ We did the WOD (Word of the Day) quiz and it took the entire period.
 
 ## Thursday
 ### Using 什么。。。都。。。
-We wrote sentences using the sentence pattern 什么。。。都。。。(ShenMe...Dou...)  
-什么工作我都做。(ShenMeGongZuoWoDouZuo)
-什么食物我都吃。(ShenMeShiWuWoDouChi)
-什么人我都不认识。(ShenMeRenWoDouBuRenShi)
+We wrote sentences using the sentence pattern 什么。。。都。。。(ShenMe...Dou...). Basically means that "Whatever <text>______</text>  I will <text>______</text>."  
+什么工作我都做。(ShenMeGongZuoWoDouZuo)  
+什么食物我都吃。(ShenMeShiWuWoDouChi)  
+什么人我都不认识。(ShenMeRenWoDouBuRenShi)  
 
 ### Hopes for Rental Home
 - 你希望你的房子有几房几厅？
