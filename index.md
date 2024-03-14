@@ -2,8 +2,9 @@
 layout: home
 search_exclude: true
 ---
-A modified blog for CSA Based on Fastpages- Tirth Thakkar & Haseeb Beg   
+<h1 style="display:block">Home Page</h1>
 
-
+## To-Do List
+I am a todo list
 
 # Posts
