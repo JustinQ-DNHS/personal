@@ -35,3 +35,166 @@ We wrote sentences using the sentence pattern 什么。。。都。。。(ShenMe
 	- 我希望我的房租一个月多少钱时一千五百少钱，我知道在加州的房租很高。
 - 你想养宠物？养什么？
 	- 我想养宠物，我喜欢狗和猫但是我也高兴跟小鸟。我觉得猫很好因为他很独立的，所以我忙时他们好的。
+
+## Friday
+<details>
+<summary><text style="font-size:30px !important">Vocabulary</text></summary>
+<table class="c3Table">
+	<tr>
+		<td>厨师</td>
+		<td>ChuShi</td>
+		<td>Chef</td>
+	</tr>
+	<tr>
+		<td>大厨</td>
+		<td>DaChu</td>
+		<td>DaChu</td>
+	</tr>
+	<tr>
+		<td>厨具</td>
+		<td>ChuJu</td>
+		<td>Kitchen Utensils</td>
+	</tr>
+	<tr>
+		<td>书房</td>
+		<td>ShuFang</td>
+		<td>Study Room</td>
+	</tr>
+	<tr>
+		<td>房东</td>
+		<td>FanDong</td>
+		<td>Landlord</td>
+	</tr>
+	<tr>
+		<td>房客</td>
+		<td>Fan</td>
+		<td>Tenant</td>
+	</tr>
+	<tr>
+		<td>房钱</td>
+		<td>FangQian</td>
+		<td>Rent Money</td>
+	</tr>
+	<tr>
+		<td>房租</td>
+		<td>FangZu</td>
+		<td>Rent</td>
+	</tr>
+	<tr>
+		<td>买房</td>
+		<td>MaiFang</td>
+		<td>Buy House</td>
+	</tr>
+	<tr>
+		<td>卖房</td>
+		<td>MaiFang</td>
+		<td>Sell House</td>
+	</tr>
+	<tr>
+		<td>卫生</td>
+		<td>WeiSheng</td>
+		<td>Hygiene</td>
+	</tr>
+	<tr>
+		<td>卫生纸</td>
+		<td>WeiShengZhi</td>
+		<td>Tissue Paper (Toilet Paper)</td>
+	</tr>
+	<tr>
+		<td>洗手间</td>
+		<td>XiShouJian</td>
+		<td>Bathroom</td>
+	</tr>
+	<tr>
+		<td>空间</td>
+		<td>KongJian</td>
+		<td>Space; Room; Empty</td>
+	</tr>
+	<tr>
+		<td>长安</td>
+		<td>ChangAn</td>
+		<td>Changan</td>
+	</tr>
+	<tr>
+		<td>天安门</td>
+		<td>TianAnMen</td>
+		<td>Tiananmen</td>
+	</tr>
+	<tr>
+		<td>安心</td>
+		<td>AnXin</td>
+		<td>Peace</td>
+	</tr>
+	<tr>
+		<td>平安</td>
+		<td>PingAn</td>
+		<td>Safe</td>
+	</tr>
+	<tr>
+		<td>近视</td>
+		<td>JinShi</td>
+		<td>Close-Sighted</td>
+	</tr>
+	<tr>
+		<td>近来</td>
+		<td>JinLai</td>
+		<td></td>
+	</tr>
+</table>
+</details>
+
+<details>
+<summary><text style="font-size:30px !important">Vocabulary</text></summary>
+<table class="c3Table">
+	<tr>
+		<td>小费</td>
+		<td>XiaoFei</td>
+		<td>Tips</td>
+	</tr>
+	<tr>
+		<td>学费</td>
+		<td>XueFei</td>
+		<td>Tuition</td>
+	</tr>
+	<tr>
+		<td>免费</td>
+		<td>MianFei</td>
+		<td>Free</td>
+	</tr>
+	<tr>
+		<td>服务费</td>
+		<td>FuWeiFei</td>
+		<td>Service Fee</td>
+	</tr>
+	<tr>
+		<td>水费</td>
+		<td>ShuiFei</td>
+		<td>Water Bill</td>
+	</tr>
+	<tr>
+		<td>电费</td>
+		<td>DianFei</td>
+		<td>Electricity Bill</td>
+	</tr>
+	<tr>
+		<td>电话费</td>
+		<td>DianHuaFei</td>
+		<td>Phone Bill</td>
+	</tr>
+	<tr>
+		<td>还书</td>
+		<td>HuanShu</td>
+		<td>Return Book</td>
+	</tr>
+	<tr>
+		<td>还钱</td>
+		<td>HuanQian</td>
+		<td>Payback</td>
+	</tr>
+	<tr>
+		<td>还东西</td>
+		<td>HuanDongXi</td>
+		<td>Return Stuff</td>
+	</tr>
+</table>
+</details>
