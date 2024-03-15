@@ -37,6 +37,8 @@ We wrote sentences using the sentence pattern 什么。。。都。。。(ShenMe
 	- 我想养宠物，我喜欢狗和猫但是我也高兴跟小鸟。我觉得猫很好因为他很独立的，所以我忙时他们好的。
 
 ## Friday
+### Learned New Vocabulary
+
 <details open>
 <summary><text style="font-size:30px !important">Vocabulary</text></summary>
 <table class="c3Table">
