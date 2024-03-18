@@ -42,3 +42,7 @@ New Grammar! 不下: BuXia - No space for something
 </tr>
 </table></details>
 
+什么都 Anything that/Whatever  
+谁都 Anyone who/whoever  
+哪儿都 Anyplace where/wherever  
+什么时候　 Anytime when/whenever 
